@@ -1,148 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<license id="SPL-1.0" name="Sky Genesis Enterprise Public License" version="1.0" xmlns="https://skygenesisenterprise.com/licenses">
-  <meta>
-    <title>Sky Genesis Enterprise Public License v1.0 (SPL-1.0)</title>
-    <copyright year="[YEAR]">Sky Genesis Enterprise and Contributors</copyright>
-    <notice>All rights reserved.</notice>
-    <generated>2025-09-11</generated>
-  </meta>
+<license>
+  <title>Sky Genesis Enterprise Public License v1.0 (SPL-1.0)</title>
+  <copyright>Copyright (c) [YEAR] Sky Genesis Enterprise and Contributors. All rights reserved.</copyright>
 
-  <sections>
+  <section number="1" name="Definitions">
+    <definition term="Licensor">the copyright holder(s) or entity that distributes the Work under this License.</definition>
+    <definition term="You">an individual or entity exercising rights under this License.</definition>
+    <definition term="Work">the source code, binary, or other material made available under this License.</definition>
+    <definition term="Modification">any change or addition made to a file covered by this License.</definition>
+    <definition term="Covered File">any source file distributed under this License.</definition>
+  </section>
 
-    <section number="1" key="definitions">
-      <title>Definitions</title>
-      <definition id="Licensor">
-        <term>Licensor</term>
-        <definitionText>the copyright holder(s) or entity that distributes the Work under this License.</definitionText>
-      </definition>
-      <definition id="You">
-        <term>You (or Your)</term>
-        <definitionText>an individual or entity exercising rights under this License.</definitionText>
-      </definition>
-      <definition id="Work">
-        <term>Work</term>
-        <definitionText>the source code, binary, or other material made available under this License.</definitionText>
-      </definition>
-      <definition id="Modification">
-        <term>Modification</term>
-        <definitionText>any change or addition made to a file covered by this License.</definitionText>
-      </definition>
-      <definition id="CoveredFile">
-        <term>Covered File</term>
-        <definitionText>any source file distributed under this License.</definitionText>
-      </definition>
-    </section>
+  <section number="2" name="Grant of Copyright License">
+    <grant>
+      Subject to the terms and conditions of this License, each Contributor hereby grants You a worldwide, royalty-free, non-exclusive, irrevocable copyright license to:
+      <rights>
+        <right>reproduce</right>
+        <right>prepare derivative works of</right>
+        <right>publicly display</right>
+        <right>publicly perform</right>
+        <right>sublicense</right>
+        <right>distribute the Work and such derivative works in Source or Object form</right>
+      </rights>
+    </grant>
+  </section>
 
-    <section number="2" key="copyright_grant">
-      <title>Grant of Copyright License</title>
-      <paragraph>
-        <![CDATA[
-        Subject to the terms and conditions of this License, each Contributor hereby grants You a worldwide,
-        royalty-free, non-exclusive, irrevocable copyright license to reproduce, prepare derivative works of,
-        publicly display, publicly perform, sublicense, and distribute the Work and such derivative works in
-        Source or Object form.
-        ]]>
-      </paragraph>
-    </section>
+  <section number="3" name="File-Level Copyleft">
+    <rule>You may distribute Modifications under this License or a compatible license.</rule>
+    <rule>Any Covered File that You modify must remain under SPL-1.0, including all its Modifications.</rule>
+    <rule>Larger works that combine Covered Files with proprietary code may be distributed under different terms, provided that Covered Files remain under this License and are clearly separated.</rule>
+  </section>
 
-    <section number="3" key="file_level_copyleft">
-      <title>File-Level Copyleft</title>
-      <list>
-        <item>You may distribute Modifications under this License or a compatible license.</item>
-        <item>
-          <![CDATA[
-          However, any Covered File that You modify must remain under SPL-1.0, including all its Modifications.
-          ]]>
-        </item>
-        <item>
-          <![CDATA[
-          Larger works that combine Covered Files with proprietary code may be distributed under different terms,
-          provided that Covered Files remain under this License and are clearly separated.
-          ]]>
-        </item>
-      </list>
-    </section>
+  <section number="4" name="Grant of Patent License">
+    <grant>
+      Each Contributor grants You a worldwide, royalty-free, non-exclusive, irrevocable patent license to make, use, sell, offer for sale, import, and otherwise transfer the Work.
+      This license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work.
+    </grant>
+  </section>
 
-    <section number="4" key="patent_grant">
-      <title>Grant of Patent License</title>
-      <paragraph>
-        <![CDATA[
-        Each Contributor grants You a worldwide, royalty-free, non-exclusive, irrevocable patent license to make, use,
-        sell, offer for sale, import, and otherwise transfer the Work, where such license applies only to those
-        patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or
-        by combination of their Contribution(s) with the Work.
-        ]]>
-      </paragraph>
-    </section>
+  <section number="5" name="Redistribution">
+    <rule>You may reproduce and distribute copies of the Work or derivative works thereof in any medium, with or without Modifications, provided that You meet the following conditions:</rule>
+    <conditions>
+      <condition>You must include a copy of this License with every copy of the Work.</condition>
+      <condition>You must retain all copyright, patent, trademark, and attribution notices.</condition>
+      <condition>You must state significant changes made to Covered Files.</condition>
+    </conditions>
+  </section>
 
-    <section number="5" key="redistribution">
-      <title>Redistribution</title>
-      <paragraph>
-        <![CDATA[
-        You may reproduce and distribute copies of the Work or derivative works thereof in any medium, with or without
-        Modifications, provided that You meet the following conditions:
-        ]]>
-      </paragraph>
-      <conditions>
-        <condition number="1">Include a copy of this License with every copy of the Work.</condition>
-        <condition number="2">Retain all copyright, patent, trademark, and attribution notices.</condition>
-        <condition number="3">State significant changes made to Covered Files.</condition>
-      </conditions>
-    </section>
+  <section number="6" name="Trademarks">
+    <rule>This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work.</rule>
+  </section>
 
-    <section number="6" key="trademarks">
-      <title>Trademarks</title>
-      <paragraph>
-        <![CDATA[
-        This License does not grant permission to use the trade names, trademarks, service marks, or product names of
-        the Licensor, except as required for reasonable and customary use in describing the origin of the Work.
-        ]]>
-      </paragraph>
-    </section>
+  <section number="7" name="Disclaimer of Warranty">
+    <rule>The Work is provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.</rule>
+  </section>
 
-    <section number="7" key="warranty_disclaimer">
-      <title>Disclaimer of Warranty</title>
-      <paragraph>
-        <![CDATA[
-        The Work is provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied,
-        including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness
-        for a particular purpose.
-        ]]>
-      </paragraph>
-    </section>
+  <section number="8" name="Limitation of Liability">
+    <rule>In no event and under no legal theory shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any kind, arising out of or in connection with the Work or this License.</rule>
+  </section>
 
-    <section number="8" key="limitation_of_liability">
-      <title>Limitation of Liability</title>
-      <paragraph>
-        <![CDATA[
-        In no event and under no legal theory shall any Contributor be liable to You for damages, including any direct,
-        indirect, special, incidental, or consequential damages of any kind, arising out of or in connection with the Work
-        or this License.
-        ]]>
-      </paragraph>
-    </section>
+  <section number="9" name="Termination">
+    <rule>If You violate the terms of this License, Your rights under it will terminate automatically.</rule>
+  </section>
 
-    <section number="9" key="termination">
-      <title>Termination</title>
-      <paragraph>
-        <![CDATA[
-        If You violate the terms of this License, Your rights under it will terminate automatically.
-        ]]>
-      </paragraph>
-    </section>
-
-    <section number="10" key="versioning">
-      <title>Versioning</title>
-      <paragraph>
-        <![CDATA[
-        The Licensor may publish revised and/or new versions of the SPL from time to time. Each version will be given a
-        distinguishing version number. Once published, You may choose to continue using the version under which the Work
-        was received, or to adopt a later version.
-        ]]>
-      </paragraph>
-    </section>
-
-  </sections>
+  <section number="10" name="Versioning">
+    <rule>The Licensor may publish revised and/or new versions of the SPL from time to time.</rule>
+    <rule>Each version will be given a distinguishing version number.</rule>
+    <rule>Once published, You may choose to continue using the version under which the Work was received, or to adopt a later version.</rule>
+  </section>
 
   <end>END OF TERMS AND CONDITIONS</end>
 </license>

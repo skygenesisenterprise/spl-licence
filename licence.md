@@ -1,11 +1,11 @@
-# Sky Genesis Enterprise Public License v1.0 (SPL-1.0)
+Sky Genesis Enterprise Public License v1.0 (SPL-1.0)
 
 **Copyright (c) [YEAR] Sky Genesis Enterprise and Contributors**  
 All rights reserved.
 
 ---
 
-## 1. Definitions
+ 1. Definitions
 
 - **"Licensor"**: the copyright holder(s) or entity that distributes the Work under this License.  
 - **"You" (or "Your")**: an individual or entity exercising rights under this License.  
@@ -15,7 +15,7 @@ All rights reserved.
 
 ---
 
-## 2. Grant of Copyright License
+2. Grant of Copyright License
 
 Subject to the terms and conditions of this License, each Contributor hereby grants You a worldwide, royalty-free, non-exclusive, irrevocable copyright license to:
 
@@ -28,7 +28,7 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 
 ---
 
-## 3. File-Level Copyleft
+ 3. File-Level Copyleft
 
 - You may distribute Modifications under this License or a compatible license.  
 - However, **any Covered File that You modify must remain under SPL-1.0**, including all its Modifications.  
@@ -36,14 +36,14 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 
 ---
 
-## 4. Grant of Patent License
+ 4. Grant of Patent License
 
 Each Contributor grants You a worldwide, royalty-free, non-exclusive, irrevocable patent license to make, use, sell, offer for sale, import, and otherwise transfer the Work.  
 This license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work.
 
 ---
 
-## 5. Redistribution
+ 5. Redistribution
 
 You may reproduce and distribute copies of the Work or derivative works thereof in any medium, with or without Modifications, provided that You meet the following conditions:  
 
@@ -53,31 +53,31 @@ You may reproduce and distribute copies of the Work or derivative works thereof 
 
 ---
 
-## 6. Trademarks
+6. Trademarks
 
 This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work.
 
 ---
 
-## 7. Disclaimer of Warranty
+7. Disclaimer of Warranty
 
 The Work is provided on an **"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND**, either express or implied, including, without limitation, any warranties or conditions of title, non-infringement, merchantability, or fitness for a particular purpose.
 
 ---
 
-## 8. Limitation of Liability
+8. Limitation of Liability
 
 In no event and under no legal theory shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any kind, arising out of or in connection with the Work or this License.
 
 ---
 
-## 9. Termination
+9. Termination
 
 If You violate the terms of this License, Your rights under it will terminate automatically.
 
 ---
 
-## 10. Versioning
+10. Versioning
 
 The Licensor may publish revised and/or new versions of the SPL from time to time.  
 Each version will be given a distinguishing version number.  
