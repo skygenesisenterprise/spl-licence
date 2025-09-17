@@ -1,12 +1,21 @@
-# Sky Genesis Enterprise Public License v1.0 (SPL-1.0)
+# SGE-PL-1.0 Licence Project
+
+[![License: SGE-PL-1.0](https://img.shields.io/badge/License-SGE--PL--1.0-blue.svg)](https://opensource.org/licenses/SGE-PL-1.0)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
+![Build Status](https://img.shields.io/travis/yourusername/yourproject.svg)
+![Code Coverage](https://img.shields.io/codecov/c/github/yourusername/yourproject.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![Language](https://img.shields.io/badge/language-Python-blue.svg)
+![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)
+![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-enforced-brightgreen.svg)
 
 ## Overview
 
-The Sky Genesis Enterprise Public License v1.0 (SPL-1.0) is an open source license designed to provide file-level copyleft protection for software projects. It allows for broad use, modification, and redistribution of covered files, while ensuring that modifications to those files remain under the same license.
+The Sky Genesis Enterprise Public License v1.0 (SGE-PL-1.0) is an open source license designed to provide file-level copyleft protection for software projects. It allows for broad use, modification, and redistribution of covered files, while ensuring that modifications to those files remain under the same license.
 
 ## Key Features
 
-- **File-Level Copyleft:** Modified files must remain under SPL-1.0, but larger works can combine covered files with proprietary code if clearly separated.
+- **File-Level Copyleft:** Modified files must remain under SGE-PL-1.0, but larger works can combine covered files with proprietary code if clearly separated.
 - **Patent Grant:** Contributors grant a patent license for their contributions.
 - **Redistribution:** You may distribute the work and derivatives, provided you include the license and retain notices.
 - **No Warranty:** The work is provided "AS IS", without warranties or conditions of any kind.
